@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#1e1e1e; color:#00ff00; font-family:'Fira Code', monospace; padding:20px; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.3);">
   
 ## 👋 Hi there! Welcome to my GitHub.
-  Explore my projects and feel free to connect if something sparks your interest.
+  Explore any projects and feel free to connect if something sparks your interest.
 
 
   <p>
