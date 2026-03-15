@@ -32,9 +32,6 @@
     <a href="https://www.upwork.com/freelancers/~0149921e0f15e62737">
       <img src="https://img.icons8.com/ios-filled/24/22C55E/upwork.png" alt="Upwork" style="margin: 0 6px;" />
     </a>
-    <a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Adonay-Dev.Adonay-Dev" height="20" />
-    </a>
-  </div>
+   </div>
 
 </div>
